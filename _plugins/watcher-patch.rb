@@ -1,7 +1,9 @@
+#frozen_string_literal:true 
+
 require 'jekyll-watch'
 
 module Jekyll
-    module watcher
+    module Watcher
         extend self
 
         alias_method :original_listen_ignore_paths, :listen_ignore_paths
