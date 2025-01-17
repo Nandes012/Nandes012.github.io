@@ -3,6 +3,8 @@ title: Current Project (In Progress)
 date: 2025-01-10 00:00:00 +0800
 categories: [Health App]
 tags: [Python,Tkinter]
+image :
+    path : assets/Fitme.jpg
 ---
 
 # Fitme Project
@@ -158,3 +160,6 @@ def main():
 if __name__ == "__main__":
     main()
 ``` 
+
+
+ 

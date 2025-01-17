@@ -3,6 +3,8 @@ title: Game Project
 date: 2024-12-16 00:00:00 +0800
 categories: [Simulation,Game]
 tags: [Random,Python]
+image :
+    path : assets/Chibi.png
 ---
 
 # My First Game Project
@@ -34,3 +36,5 @@ while True:
                     pygame.quit()
                     sys.exit()
 ``` 
+
+![Cute](assets\Chibi2.jpg)
