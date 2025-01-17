@@ -37,4 +37,4 @@ while True:
                     sys.exit()
 ``` 
 
-![Cute](assets\Chibi2.jpg)
+![Cute](assets/Chibi2.jpg)

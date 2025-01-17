@@ -235,7 +235,7 @@ update_dot_labels()
 # Start the application
 root.mainloop()
 ```
-![homepage](assets\Homepage.png)
+![homepage](assets/Homepage.png)
 
 
-![Information](assets\Information.png)
+![Information](assets/Information.png)
