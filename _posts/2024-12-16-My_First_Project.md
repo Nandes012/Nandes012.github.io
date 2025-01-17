@@ -36,5 +36,9 @@ while True:
                     pygame.quit()
                     sys.exit()
 ``` 
+![Difficulty](assets/Difficulty.png)
+![Gameplay](assets/Gameplay.png)
+
+
 
 ![Cute](assets/Chibi2.jpg)
