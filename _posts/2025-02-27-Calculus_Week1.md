@@ -12,8 +12,7 @@ In formulas, a limit of a function is usually written as
 
 ![Limit](assets/Limit.png)
 
-and is read as "the limit of f of x as x approaches c equals L". This means that the value of the function f can be made arbitrarily close to L, by choosing x sufficiently close to c. Alternatively, the fact that a function f approaches the limit L as x approaches c is sometimes denoted by a right arrow (→ or 
-→), as in:
+and is read as "the limit of f of x as x approaches c equals L". This means that the value of the function f can be made arbitrarily close to L, by choosing x sufficiently close to c. Alternatively, the fact that a function f approaches the limit L as x approaches c is sometimes denoted by a right arrow (→ or →), as in:
 
 ![Formula](assets/Formula.png)
 
